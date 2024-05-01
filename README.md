@@ -33,7 +33,7 @@ The suggested method includes the use of intuitive data visualization tools with
 
 *3.1 Block diagram*
 
-![](https://imgur.com/a/sPBuRyt.png)
+![Block Diagram](https://github.com/deeekshithaa/Global_Sales_Data_Analytics/assets/107118607/570b5e9b-5640-4574-9fbc-80905d8e9470)
  
 *3.2 Hardware / Software designing*
 
@@ -59,11 +59,11 @@ Software Requirements:
 
 •	Security and access control tools for data protection and user authentication.
 
-*4 EXPERIMENTAL INVESTIGATIONS*
+**4 EXPERIMENTAL INVESTIGATIONS**
 
 During the experimental investigations for the Global Sales Data Analytics project, various analyses and investigations were conducted to assess the effectiveness and usability of the proposed solution. The investigations involved analyzing large volumes of sales data, creating interactive visualizations, and integrating them into a web-based platform. The focus was on evaluating the user-friendliness of the data visualization tools, the effectiveness of the storytelling techniques in conveying insights, and the seamless integration of the dashboards into the web interface. The experimental investigations served to validate the proposed solution's ability to empower stakeholders in making informed decisions and fostering a data-driven culture within the organization.
 
-*5 PROJECT FLOW*
+**5 PROJECT FLOW**
 
 Here is the procedural flow of our project:
 
@@ -101,51 +101,46 @@ Tableau Public Link for Dashboard – https://public.tableau.com/views/Project_G
 
 Tableau Public Link for Story – https://public.tableau.com/views/Project_GlobalSales_story/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
-*6 RESULT*
+**6 RESULT**
 
 We have answered the following questions through our project:
 
-1.	What is the trend in sales for the last 5 years? 
+1.	What is the trend in sales for the last 5 years?
+   ![picture 1](https://github.com/deeekshithaa/Global_Sales_Data_Analytics/assets/107118607/3e1c34fe-fb3c-4123-82c7-ca1ddcd77bbe)
 
-2.	What is the percentage of sales contributed by each region to the total sales? 
+2.	What is the percentage of sales contributed by each region to the total sales?
+   ![picture 2](https://github.com/deeekshithaa/Global_Sales_Data_Analytics/assets/107118607/787bf218-5a44-4e85-acaa-86ab06da9ca1)
 
-3.	What is the percentage of profit margin for each category of products? 
-
+3.	What is the percentage of profit margin for each category of products?
+   ![pic 3](https://github.com/deeekshithaa/Global_Sales_Data_Analytics/assets/107118607/1e089c5b-85d8-4244-92c7-497b1b16dba6)
+   
 4.	What is the distribution of sales across different countries? 
+   ![picture 4](https://github.com/deeekshithaa/Global_Sales_Data_Analytics/assets/107118607/031bf595-1196-4eb2-b1e2-f1e7eb78f8cb)
 
 5.	Which city has the highest number of orders and which one has the lowest number of orders?
+   ![pic 5](https://github.com/deeekshithaa/Global_Sales_Data_Analytics/assets/107118607/09589e55-93b8-4209-8273-9d405435983a)
 
 6.	What is the average order value by each category of products? 
+   ![pic 6](https://github.com/deeekshithaa/Global_Sales_Data_Analytics/assets/107118607/3b959502-11ad-4d17-b772-408bbef3cdaf)
 
 7.	Identify the Categories where Top 20 Customers that have Sales more than the other Categories in the same Region.
+   ![pic 7](https://github.com/deeekshithaa/Global_Sales_Data_Analytics/assets/107118607/08b22bbe-ab74-4bec-aeed-a9b342057977)
 
-8.	Identify the Regions where Top 20 Customers that have overall Profit Ratio (Profit as % of Sales) which is double the Profit Ratio of other Customers in the
+8.	Identify the Regions where Top 20 Customers that have overall Profit Ratio (Profit as % of Sales) which is double the Profit Ratio of other Customers in the Region. 
+   ![pic 8](https://github.com/deeekshithaa/Global_Sales_Data_Analytics/assets/107118607/68926633-c902-461b-83cf-a5da80cbbe69)
 
-9.	Region.
+Here are the dasboard and story for the above questions and the web integration of our project:
 
-Here are the results for the above questions and the web integration of our project:
- 
+![dash1](https://github.com/deeekshithaa/Global_Sales_Data_Analytics/assets/107118607/9e4994ee-4831-45f8-b9dd-a573dac7fa52) 
 
- 
- 
+![dash2](https://github.com/deeekshithaa/Global_Sales_Data_Analytics/assets/107118607/92e59c33-ebcf-4847-b8df-cd3a42c83fd4) 
 
- 
- 
+![dash3](https://github.com/deeekshithaa/Global_Sales_Data_Analytics/assets/107118607/83b03c66-cf21-4004-9c35-e82031bd7cdc) 
 
- 
- 
+![dash4](https://github.com/deeekshithaa/Global_Sales_Data_Analytics/assets/107118607/991d687d-1231-4cd9-a93f-bd9310ae382c)
 
- 
+![story 1](https://github.com/deeekshithaa/Global_Sales_Data_Analytics/assets/107118607/0b875c46-9b79-4ef9-8654-a1ba50e69641) 
 
- 
-
- 
- 
-
- 
- 
-
- 
 *7 ADVANTAGES & DISADVANTAGES*
 
 Advantages of the proposed solution:
